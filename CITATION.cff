@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  A Dynamic Programming Algorithm for Finding an Optimal
+  Sequence of Informative Measurements
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: P.~N.
+    family-names: Loxley
+identifiers:
+  - type: doi
+    value: 10.3390/e25020251
+repository-code: >-
+  https://github.com/ploxley/DP-algorithm-for-informative-measurements
+keywords:
+  - Information Theory
+  - Reinforcement Learning
+  - Active Learning
+  - Autonomous Agent
+license: MIT
+date-released: '2025-01-09'
